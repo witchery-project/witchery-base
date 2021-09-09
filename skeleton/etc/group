@@ -1,0 +1,5 @@
+root:x:0:root
+tty:x:5:
+nogroup:x:65533:
+nobody:x:65534:
+nonroot:x:1000:
